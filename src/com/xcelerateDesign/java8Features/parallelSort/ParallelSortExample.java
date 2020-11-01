@@ -22,4 +22,5 @@ public class ParallelSortExample {
         Arrays.stream(numbers).forEach(System.out::println);
 
     }
+
 }
